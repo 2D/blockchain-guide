@@ -6,3 +6,6 @@ You might need more insides about blockchain after you googled all the terms and
 Next Steps:
 create a MD read post with links
 https://github.com/blockchainmanc/blockchain-reading-list
+
+
+WIP → updates are comming soon!
